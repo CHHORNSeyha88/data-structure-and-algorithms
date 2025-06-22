@@ -1,0 +1,23 @@
+Data Structures & Algorithms (DSA) in Java
+Welcome to this DSA repository! This document serves as a comprehensive guide to fundamental data structures and algorithms, complete with theoretical explanations and practical Java implementations.
+
+=========================================================
+                     Table of Contents
+=========================================================
+
+                      1. Array
+                      2. Linear Search
+                      3. Binary Search
+                      4. Bubble Sort
+                      5. Selection Sort
+                      6. Insertion Sort
+                      7. Quick Sort
+                      8. Divide and Conquer
+                      9. Tree
+                      10. Recursion
+                      11. Merge Sort theory
+                      12. Merge Sort Code in java
+                      13. LinkedLis
+                      14. Stack
+                      15. Circular Queue
+                      16. Binary Search Tree
